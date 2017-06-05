@@ -1,0 +1,25 @@
+{
+  "name": "moviespottwit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {
+    "keys": "^0.1.2",
+    "twitter": "^1.7.0",
+    "spotify": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berryknotty/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berryknotty/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/berryknotty/liri-node-app#readme"
+}
